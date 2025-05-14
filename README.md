@@ -12,6 +12,19 @@
 Hey there! I'm Pratham V K, a graduate student at Arizona State University (📍Tempe, AZ) pursuing a Master’s in Robotics and Autonomous Systems. I enjoy solving real-world problems with deep learning, NLP, and backend systems. Before grad school, I worked on building scalable financial systems at Ness Digital Engineering and developing tools that make life easier—like browser extensions and analytics dashboards.
 
 ---
+### 💼 Professional Experience
+
+🧩 **Software Engineer Intern – Ness Digital Engineering**  
+📍Bengaluru, India | 🗓️ Feb 2023 – Aug 2023  
+
+At Ness, I contributed to a large-scale banking application focused on backend performance and data pipeline reliability. Some of the key things I worked on:
+
+- 🔄 Developed scalable APIs with structured logging and transaction-level analytics, improving backend performance by 30%.
+- 🔐 Built secure RESTful services on AWS (EC2, S3) with JWT authentication for safe and efficient financial data processing.
+- 🧪 Validated APIs using Postman and Swagger across dev, staging, and pre-prod environments.
+- 🌐 Built a React-based browser extension (using TypeScript + Node.js) to decode and manage URLs more efficiently—cutting processing time by 60% and boosting parsing accuracy to 95%.
+
+---
 
 ### 🔧 What I’ve Been Building
 
@@ -31,10 +44,6 @@ An interactive Streamlit tool for analyzing stock trends and portfolio risk. Int
 Forecasted hourly electricity prices using hybrid time series models—ARIMA for trend and LSTM for sequence learning. Achieved 92% directional accuracy.  
 → Built with: LSTM, ARIMA, Pandas, Scikit-learn, Matplotlib
 
-💰 **Personal Finance Dashboard**  
-Created a personal finance tracker using Python, Power BI, and SQL. Cleaned and categorized financial data to visualize spending and savings.  
-→ Built with: Power BI, Python, SQL  
-→ Enables better budgeting and financial awareness.
 
 🌐 **Browser Extension for Link Management**  
 A React + TypeScript browser extension that improved link parsing accuracy to 95% and reduced URL decoding time by 60%.  
