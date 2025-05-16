@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pratham 👋</h1>
 <p align="center">
-  <em>Robotics & AI enthusiast | Data & Backend Engineer | Explorer of intelligent systems</em><br>
+  <em>Robotics & AI Graduate at ASU 🔱 | Aspiring Machine Learning Engineer | Explorer of intelligent systems</em><br>
   <img src="https://img.shields.io/badge/Location-Tempe,%20AZ-blue" />
   <img src="https://img.shields.io/badge/ASU-Masters%20in%20Robotics-orange" />
 </p>
