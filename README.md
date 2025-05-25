@@ -15,7 +15,7 @@ Hey there! I'm Pratham V K, a graduate student at Arizona State University (📍
 
 ### 💼 Professional Experience
 
-🧩 **Software Engineer Intern – Ness Digital Engineering**  
+🧩 **Software Engineer – Ness Digital Engineering**  
 📍Bengaluru, India | 🗓️ Feb 2023 – Aug 2023  
 
 - Managed application deployment and server infrastructure with CI/CD automation, ensuring near-zero downtime.
@@ -23,7 +23,7 @@ Hey there! I'm Pratham V K, a graduate student at Arizona State University (📍
 - Integrated Jenkins, Maven, and Jira, leading to a 40% reduction in deployment time.
 - Developed an Angular-based browser extension using JavaScript + TypeScript with 95% parsing accuracy and 60% faster link decoding.
 
-🧠 **Machine Learning Engineer – 1stop.ai**  
+🧠 **Machine Learning Intern – 1stop.ai**  
 📍Remote | 🗓️ Aug 2021 – Oct 2021  
 
 - Built REST APIs using FastAPI and PostgreSQL with sub-2ms latency.
