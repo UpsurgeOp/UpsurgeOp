@@ -39,6 +39,8 @@ Hey there! I'm Pratham V K, a graduate student at Arizona State University (📍
 → Dockerized and orchestrated with Docker Compose; CI/CD via GitHub Actions.  
 → Achieved <200ms latency under load.  
 → Tools: Python, FastAPI, PostgreSQL, Docker, Streamlit
+→ My Project at **Ness Digital Engineering**
+
 
 🛡️ **Bully Scan – Real-Time Cyberbullying Tweet Classifier**  
 🗓️ Mar 2025 – Apr 2025  
@@ -63,6 +65,7 @@ Hey there! I'm Pratham V K, a graduate student at Arizona State University (📍
 → Angular + TypeScript extension for efficient URL decoding.  
 → Parsing accuracy: 95%, decoding time reduced by 60%.  
 → Tools: Angular, TypeScript, Node.js
+→ My project at **Ness Digital Engineering**
 
 ---
 
